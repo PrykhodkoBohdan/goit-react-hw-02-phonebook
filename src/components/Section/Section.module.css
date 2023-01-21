@@ -1,0 +1,9 @@
+.container {
+    padding: 10px 25px 10px 25px;
+    margin: 0 25px 5px 25px;
+  }
+  
+  .container__title {
+    font-size: 32px;
+    font-family: 'Roboto', sans-serif;
+  }
